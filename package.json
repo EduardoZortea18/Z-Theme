@@ -1,0 +1,36 @@
+{
+  "name": "z-theme",
+  "displayName": "Z Theme",
+  "publisher": "Zortea",
+  "description": "A theme for u, enjoy it",
+  "version": "0.0.1",
+  "license": "MIT",
+  "author": {
+    "name" : "Eduardo Zortea"
+  },
+  "scripts": {
+    "prestart": "tsc index.ts",
+    "start": "node index.js"
+  },
+  "engines": {
+    "vscode": "^1.11.0"
+  },
+  
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Z Theme",
+        "uiTheme": "vs-dark",
+        "path": "./z-theme.json"
+      }
+    ]
+  },
+  "devDependencies": {
+    "@types/node": "^7.0.10",
+    "typescript": "^4.0.5",
+    "vscode-theme-generator": "*"
+  }
+}
