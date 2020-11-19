@@ -15,9 +15,27 @@
   "engines": {
     "vscode": "^1.11.0"
   },
-  
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/EduardoZortea18/Z-Theme"
+  },
+  "galleryBanner": {
+    "color": "#09131b",
+    "theme": "dark"
+  },
+  "icon": "images/icon.png",
   "categories": [
     "Themes"
+  ],
+  "keywords": [
+    "z Theme",
+    "Dark Theme",
+    "VSCode theme",
+    "Z-theme",
+    "theme",
+    "blue",
+    "grey",
+    "dark"
   ],
   "contributes": {
     "themes": [

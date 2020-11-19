@@ -1,17 +1,20 @@
-# vscode-theme-generator-quick-start
+# Z-Theme for Visual Studio Code
 
-**Clone and run for a quick way to get started with [vscode-theme-generator](https://github.com/Tyriar/vscode-theme-generator).**
-
-## How to build the theme
+## How to install
 
 You need [NodeJS](https://nodejs.org/en/) installed to run the generator.
 
 ```js
-npm install
+1 - Open the extensions sidebar on Visual Studio Code
+2 - Search for Z Theme or Z-Theme
+3 - Click Install
+4 - Click Reload to reload your editor
+5 - Select the Manage Cog (bottom left) > Color Theme ＞ Z theme
+🌟🌟🌟🌟🌟 Rate five-stars 😃
 ```
 
-Make your changes to the colors in index.ts and hit F5 to build the theme and launch the a new VS Code window with your theme available in the command palette (`ctrl`/`cmd+shift+p` > "Color Theme").
+Feel free to clone and make some changes if u want!
 
-## Publishing
+## Cloning
 
-When you're ready to publish your theme just fill out the `"name"`, `"displayName", `"publisher"` and `"description"` values in the package.json and [publish it like any other extension](https://code.visualstudio.com/docs/extensions/publish-extension).
+Go to my repository and be happy [Repo](https://github.com/EduardoZortea18/Z-Theme).
