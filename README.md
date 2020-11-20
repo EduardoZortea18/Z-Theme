@@ -2,8 +2,6 @@
 
 ## How to install
 
-You need [NodeJS](https://nodejs.org/en/) installed to run the generator.
-
 ```js
 1 - Open the extensions sidebar on Visual Studio Code
 2 - Search for Z Theme or Z-Theme
