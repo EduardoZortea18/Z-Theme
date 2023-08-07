@@ -1,5 +1,7 @@
 # Z-Theme for Visual Studio Code
 
+![Captura de tela 2023-08-07 181145](https://github.com/EduardoZortea18/Z-Theme/assets/60518656/184ca1fc-d05d-4770-af50-52262d941c4d)
+
 ## How to install
 
 ```js
